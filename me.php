@@ -14,3 +14,5 @@
 <img src="./images/img.jpg" alt="Bild pÃ¥ Andreas Wieden" >
 
 <?php include("incl/footer.php"); ?>
+
+<!-- Här kommer lite komentarer som ett litet test -->
