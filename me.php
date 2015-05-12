@@ -16,3 +16,4 @@
 <?php include("incl/footer.php"); ?>
 
 <!-- Här kommer lite komentarer som ett litet test -->
+<!-- Här kommer lite till komentarer -->
